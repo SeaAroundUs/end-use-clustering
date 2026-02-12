@@ -2,14 +2,12 @@
 name: 'end-use'
 channels:
   - conda-forge
-  - plotly
   - defaults
 dependencies:
-  - python==3.12
-  - ipykernel
-  - ipywidgets
+  - python=3.12
+  - altair
   - pandas
-  - matplotlib
-  - plotly
-  - jupyter-dash
   - scikit-learn
+  - numpy
+  - vl-convert-python
+  - ipykernel
