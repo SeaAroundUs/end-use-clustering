@@ -11,3 +11,5 @@ dependencies:
   - numpy
   - vl-convert-python
   - ipykernel
+  - matplotlib
+  - seaborn
