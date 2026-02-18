@@ -12,4 +12,4 @@ if __name__ == "__main__":
     df = pd.read_csv(raw_path, encoding_errors='replace')
 
     # Transform data and obtain final dataframe with counts of factories by country and attribute category
-    df = transform_data(df, output_path)
+    df = transform_data(df, True, output_path)

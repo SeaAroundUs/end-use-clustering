@@ -1,11 +1,12 @@
 import pandas as pd
 
-def transform_data(df: pd.DataFrame, output_path: str) -> pd.DataFrame:
+def transform_data(df: pd.DataFrame, save_df=False, output_path=None) -> pd.DataFrame:
     """
     Transforms the input DataFrame by handling missing values and removing duplicates.
 
     Parameters:
     df (pd.DataFrame): The input DataFrame to be transformed.
+    save_df (bool): Whether to save the processed DataFrame to a CSV file. Default is False.
     output_path (str): The path where the processed data should be saved.
 
     Returns:
@@ -52,10 +53,11 @@ def transform_data(df: pd.DataFrame, output_path: str) -> pd.DataFrame:
     final_df = final_df.fillna(0)
 
     # Write final dataframe to csv
-    final_df.to_csv(output_path + 'factory_counts_by_country.csv', index=False)
+    if save_df == True:
+        final_df.to_csv(output_path + 'factory_counts_by_country.csv', index=False)
 
     # Conver columns with counts of factories to percentages of total factories in that country
     for col in final_df.columns[2:]:
-        final_df[col] = round((final_df[col] / final_df['total_factories']) * 100, 2)
+        final_df[col] = round(final_df[col] / final_df['total_factories'], 2)
 
     return final_df
