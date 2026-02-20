@@ -356,10 +356,10 @@ factory_id,country,lat,long,company,data_type,material_type,material_type_simple
 103,Ecuador,-2.236,-80.821,Seimar,A,whole,whole,Shortfin scad,Decapterus macrosoma,Medium pelagics (30 - 89 cm),MarinTrust,NA,24-Mar
 103,Ecuador,-2.236,-80.821,Seimar,A,whole,whole,Pacific anchoveta,Cetengraulis mysticetus,Small pelagics (<30 cm),MarinTrust,NA,24-Mar
 103,Ecuador,-2.236,-80.821,Seimar,A,whole,whole,Round herring,Etrumeus whiteheadi,Small pelagics (<30 cm),MarinTrust,NA,24-Mar
-104,El Salvador,13.2855,-87.7957,Calvo Conservas El Salvador SA de CV,B,fishery by-products,by-products,Skipjack Tuna,Katsuwonus pelamis,Large pelagics (>=90 cm),MarinTrust,NA,24-Mar
-104,El Salvador,13.2855,-87.7957,Calvo Conservas El Salvador SA de CV,B,fishery by-products,by-products,Yellowfin Tuna,Thunnus albacares,Large pelagics (>=90 cm),MarinTrust,NA,24-Mar
-104,El Salvador,13.2855,-87.7957,Calvo Conservas El Salvador SA de CV,B,fishery by-products,by-products,Bigeye Tuna,Thunnus obesus,Large pelagics (>=90 cm),MarinTrust,NA,24-Mar
-104,El Salvador,13.2855,-87.7957,Calvo Conservas El Salvador SA de CV,B,fishery by-products,by-products,Albacore Tuna,Thunnus alalunga,Large pelagics (>=90 cm),MarinTrust,NA,24-Mar
+104,El Salvador,13.2855,-87.7957,Calvo Conservas El Salvador SA de CV,B,fishery by-products,by-products,Skipjack Tuna,Katsuwonus pelamis,Large pelagics (>=90 cm),MarinTrust,NA,24-Mar
+104,El Salvador,13.2855,-87.7957,Calvo Conservas El Salvador SA de CV,B,fishery by-products,by-products,Yellowfin Tuna,Thunnus albacares,Large pelagics (>=90 cm),MarinTrust,NA,24-Mar
+104,El Salvador,13.2855,-87.7957,Calvo Conservas El Salvador SA de CV,B,fishery by-products,by-products,Bigeye Tuna,Thunnus obesus,Large pelagics (>=90 cm),MarinTrust,NA,24-Mar
+104,El Salvador,13.2855,-87.7957,Calvo Conservas El Salvador SA de CV,B,fishery by-products,by-products,Albacore Tuna,Thunnus alalunga,Large pelagics (>=90 cm),MarinTrust,NA,24-Mar
 105,Estonia,59.3796,24.0788,Pro Fishmeal and Oil- Eesti Kalatootjate Keskuhistu,A,whole,whole,Herring,Clupea harengus,Medium pelagics (30 - 89 cm),EFFOP,https://www.fishoil.ee/,24-Feb
 105,Estonia,59.3796,24.0788,Pro Fishmeal and Oil- Eesti Kalatootjate Keskuhistu,A,fishery by-products,by-products,Herring,Clupea harengus,Medium pelagics (30 - 89 cm),EFFOP,https://www.fishoil.ee/,24-Feb
 105,Estonia,59.3796,24.0788,Pro Fishmeal and Oil- Eesti Kalatootjate Keskuhistu,A,whole,whole,Baltic Sprat,Sprattus sprattus,Small pelagics (<30 cm),EFFOP,https://www.fishoil.ee/,24-Feb
