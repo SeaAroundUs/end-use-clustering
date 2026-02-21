@@ -52,7 +52,7 @@ def transform_data(df: pd.DataFrame, save_df=False, output_path=None) -> pd.Data
     # Fill Nan values with 0
     final_df = final_df.fillna(0)
 
-    # Write final dataframe to csv
+    # Write final count dataframe to csv
     if save_df == True:
         final_df.to_csv(output_path + 'factory_counts_by_country.csv', index=False)
 
@@ -60,4 +60,8 @@ def transform_data(df: pd.DataFrame, save_df=False, output_path=None) -> pd.Data
     for col in final_df.columns[2:]:
         final_df[col] = round(final_df[col] / final_df['total_factories'], 2)
 
+    # Write final ratio dataframe to csv
+    if save_df == True:
+        final_df.to_csv(output_path + 'factory_ratios_by_country.csv', index=False)
+        
     return final_df
