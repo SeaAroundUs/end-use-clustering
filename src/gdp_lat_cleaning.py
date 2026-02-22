@@ -2,7 +2,7 @@ import pandas as pd
 from sklearn.preprocessing import MinMaxScaler
 
 def gdp_lat_cleaning(gdp_df: pd.DataFrame, lat_df: pd.DataFrame, 
-                     countries:list, gdp_year = '2024') -> (pd.DataFrame, pd.DataFrame):
+                     countries:list, gdp_year = '2024') -> (pd.DataFrame):
     """
     Cleans the GDP per capita and mean latitude dataframes for merging with the NMF results.
 

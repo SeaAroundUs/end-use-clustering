@@ -3,7 +3,7 @@ from src.feature_engineering import transform_data
 from src.dimension_reduction import dimension_reduction
 from src.top_categories_per_type import plot_top_categories
 from src.gdp_lat_cleaning import gdp_lat_cleaning
-
+from src.hierarchical_clustering import plot_heatmap, plot_dendrogram
 
 if __name__ == "__main__":
     # Static paths relative to the repository
@@ -11,7 +11,7 @@ if __name__ == "__main__":
     gdp_path = "../data/raw/worldbank/gdp_per_capita_world_bank.csv"
     mean_lat_path = "../data/raw/geo_mean_location.csv"
     output_path='../data/processed/'
-    graph_output_path = '../data/graphs/'
+    graph_output_path = '../results/'
 
     # Read in raw data
     df = pd.read_csv(raw_path, encoding_errors='replace')
@@ -38,3 +38,12 @@ if __name__ == "__main__":
     # clean gpd and mean latitude dataframes for merging with W
     gdp_lat_data = gdp_lat_cleaning(gdp_per_capita, mean_latitude, countries, '2024')
 
+    # Drop countries do not have factory data
+    cleaned_W = W.dropna()
+
+    # Merge W with cleaned GDP and latitude dataframes
+    final_df = cleaned_W.join(gdp_lat_data)
+
+    # Hierarchical clustering of final dataframe and save visualization of heatmaps and dendrograms    
+    plot_heatmap(final_df, save_fig= True, output_path=graph_output_path)
+    plot_dendrogram(final_df, save_fig=True, output_path=graph_output_path)
