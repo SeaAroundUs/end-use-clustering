@@ -13,3 +13,4 @@ dependencies:
   - ipykernel
   - matplotlib
   - seaborn
+  - nimfa
