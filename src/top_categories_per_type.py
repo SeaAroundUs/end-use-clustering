@@ -20,6 +20,8 @@ def plot_top_categories(H, top_n=30, save_chart= False, output_path='../data/gra
         value_name="Weight"
         )
     
+    H_long = H_long.rename(columns={"index": "Component"})
+    
     # Identify top 30 categories contributing to each component
     top_categories = (H_long
                     .groupby(['Component'])

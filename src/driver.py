@@ -45,5 +45,5 @@ if __name__ == "__main__":
     final_df = cleaned_W.join(gdp_lat_data)
 
     # Hierarchical clustering of final dataframe and save visualization of heatmaps and dendrograms    
-    plot_heatmap(final_df, save_fig= True, output_path=graph_output_path)
-    plot_dendrogram(final_df, save_fig=True, output_path=graph_output_path)
+    heatmap = plot_heatmap(final_df, save_fig= True, output_path=graph_output_path)
+    dendrogram = plot_dendrogram(final_df, save_fig=True, output_path=graph_output_path)

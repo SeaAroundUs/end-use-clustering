@@ -21,8 +21,8 @@ def plot_heatmap(data, save_fig=False, output_path=None):
     # Save the plot as an image file
     if save_fig:
         heatmap.savefig(f"{output_path}hierarchical_clustering_heatmap.png", bbox_inches='tight')
-    else:
-        plt.show()
+    
+    return heatmap
 
 
 def plot_dendrogram(data, save_fig=False, output_path=None):
@@ -42,7 +42,7 @@ def plot_dendrogram(data, save_fig=False, output_path=None):
     linkage_matrix = ward(data)
 
     # Plot the dendrogram
-    plt.figure(figsize=(10, 5))
+    fig = plt.figure(figsize=(10, 5))
     dendrogram(linkage_matrix, labels=data.index, leaf_rotation=90)
     plt.title('Hierarchical Clustering Dendrogram')
     plt.xlabel('Countries')
@@ -50,6 +50,6 @@ def plot_dendrogram(data, save_fig=False, output_path=None):
 
     # Save the plot as an image file
     if save_fig:
-        plt.savefig(f"{output_path}hierarchical_clustering_dendrogram.png", bbox_inches='tight')
-    else:
-        plt.show()
+        fig.savefig(f"{output_path}hierarchical_clustering_dendrogram.png", bbox_inches='tight')
+    
+    return fig
