@@ -1,0 +1,218 @@
+﻿sau_name,mean_lat_geo_name,gdp_Country,factory_country,fishing_entity_id,is_currently_used_for_web,is_currently_used_for_reconstruction
+Alaska (USA),Alaska (USA),,,200,TRUE,FALSE
+Albania,Albania,Albania,,1,TRUE,TRUE
+Algeria,Algeria,Algeria,,2,TRUE,TRUE
+American Samoa,American Samoa (USA),American Samoa,,3,TRUE,TRUE
+Angola,Angola,Angola,,4,TRUE,TRUE
+Anguilla (UK),Anguilla (UK),,,151,TRUE,TRUE
+Antigua & Barbuda,Antigua & Barbuda,Antigua and Barbuda,,5,TRUE,TRUE
+Argentina,Argentina,Argentina,Argentina,6,TRUE,TRUE
+Aruba (Netherlands),Aruba (Netherlands),Aruba,,120,TRUE,TRUE
+Ascension Isl. (UK),Ascension Isl. (UK),,,219,FALSE,TRUE
+Australia,Australia,Australia,Australia,7,TRUE,TRUE
+Azores Isl. (Portugal),Azores Isl. (Portugal),,,218,FALSE,TRUE
+Bahamas,Bahamas,"Bahamas, The",,8,TRUE,TRUE
+Bahrain,Bahrain,Bahrain,,9,TRUE,TRUE
+Bangladesh,Bangladesh,Bangladesh,,10,TRUE,TRUE
+Barbados,Barbados,Barbados,,11,TRUE,TRUE
+Belgium,Belgium,Belgium,,12,TRUE,TRUE
+Belize,Belize,Belize,,16,TRUE,TRUE
+Benin,Benin,Benin,,45,TRUE,TRUE
+Bermuda (UK),Bermuda (UK),Bermuda,,13,TRUE,TRUE
+Bonaire (Netherlands),Bonaire (Netherlands),,,222,FALSE,TRUE
+Bosnia & Herzegovina,Bosnia & Herzegovina,Bosnia and Herzegovina,,14,TRUE,TRUE
+Brazil,Brazil,Brazil,Brazil,15,TRUE,TRUE
+Brit. Indian Ocean Terr. (UK),Brit. Indian Ocean Terr. (UK),,,17,TRUE,TRUE
+British Virgin Isl. (UK),Virgin Isl. (UK),British Virgin Islands,,19,TRUE,TRUE
+Brunei Darussalam,Brunei Darussalam,Brunei Darussalam,,20,TRUE,TRUE
+Bulgaria,Bulgaria,Bulgaria,,21,TRUE,TRUE
+Cote d'Ivoire,Cote d'Ivoire,Cote d'Ivoire,,89,TRUE,TRUE
+Cambodia,Cambodia,Cambodia,,24,TRUE,TRUE
+Cameroon,Cameroon,Cameroon,,25,TRUE,TRUE
+Canada,Canada,Canada,Canada,26,TRUE,TRUE
+Cape Verde,Cape Verde,,,27,TRUE,TRUE
+Cayman Isl. (UK),Cayman Isl. (UK),Cayman Islands,,28,TRUE,TRUE
+Channel Isl. (UK),Channel Isl. (UK),Channel Islands,,184,TRUE,TRUE
+Chile,Chile,Chile,Chile,30,TRUE,TRUE
+China,China,China,China,31,TRUE,TRUE
+Christmas Isl. (Australia),Christmas Isl. (Australia),,,33,FALSE,TRUE
+Cocos (Keeling) Isl. (Australia),Cocos (Keeling) Isl. (Australia),,,34,FALSE,TRUE
+Colombia,Colombia,Colombia,,35,TRUE,TRUE
+Comoros,Comoros,Comoros,,36,TRUE,TRUE
+Congo (ex-Zaire),Congo (ex-Zaire),"Congo, Dem. Rep.",,39,TRUE,TRUE
+"Congo, R. of","Congo, R. of","Congo, Rep.",,38,TRUE,TRUE
+Cook Islands,Cook Islands,,,40,TRUE,TRUE
+Costa Rica,Costa Rica,Costa Rica,Costa Rica,41,TRUE,TRUE
+Croatia,Croatia,Croatia,,42,TRUE,TRUE
+Crozet Isl. (France),Crozet Isl. (France),,,195,FALSE,FALSE
+Cuba,Cuba,Cuba,,43,TRUE,TRUE
+Curacao,Curacao,Curacao,,214,FALSE,TRUE
+Cyprus,Cyprus,Cyprus,,44,TRUE,FALSE
+Denmark,Denmark,Denmark,Denmark,46,TRUE,TRUE
+Djibouti,Djibouti,Djibouti,,61,TRUE,TRUE
+Dominica,Dominica,Dominica,,47,TRUE,TRUE
+Dominican Republic,Dominican Republic,Dominican Republic,,48,TRUE,TRUE
+Ecuador,Ecuador,Ecuador,Ecuador,49,TRUE,TRUE
+Egypt,Egypt,"Egypt, Arab Rep.",,182,TRUE,TRUE
+El Salvador,El Salvador,El Salvador,El Salvador,50,TRUE,TRUE
+Equatorial Guinea,Equatorial Guinea,Equatorial Guinea,,51,TRUE,TRUE
+Eritrea,Eritrea,Eritrea,,23,TRUE,TRUE
+Estonia,Estonia,Estonia,Estonia,53,TRUE,TRUE
+Ethiopia,,Ethiopia,,52,FALSE,FALSE
+European Union,,European Union,,198,FALSE,FALSE
+Faeroe Isl. (Denmark),Faeroe Isl. (Denmark),Faroe Islands,Faroe Islands,54,TRUE,TRUE
+Falkland Isl. (UK),Falkland Isl. (UK),,,55,TRUE,TRUE
+Fiji,Fiji,Fiji,,56,TRUE,TRUE
+Finland,Finland,Finland,Finland,57,TRUE,TRUE
+Fishing Country Unknown,Fishing Country Unknown,,,223,FALSE,TRUE
+France,France,France,France,58,TRUE,TRUE
+French Guiana,French Guiana (France),,,59,TRUE,TRUE
+French Polynesia,French Polynesia (France),French Polynesia,,60,TRUE,TRUE
+Gabon,Gabon,Gabon,,62,TRUE,TRUE
+Gambia,Gambia,"Gambia, The",Gambia,64,TRUE,TRUE
+Gaza Strip,Gaza Strip,West Bank and Gaza,,65,TRUE,TRUE
+Georgia,Georgia,Georgia,Georgia,63,TRUE,TRUE
+Germany,Germany,Germany,Germany,66,TRUE,TRUE
+Ghana,Ghana,Ghana,,67,TRUE,TRUE
+Gibraltar (UK),,Gibraltar,,68,TRUE,FALSE
+Greece,Greece,Greece,,70,TRUE,TRUE
+Greenland,Greenland,Greenland,,71,TRUE,TRUE
+Grenada,Grenada,Grenada,,72,TRUE,TRUE
+Guadeloupe  (France),Guadeloupe  (France),,,73,TRUE,TRUE
+Guam (USA),Guam (USA),Guam,,74,TRUE,TRUE
+Guatemala,Guatemala,Guatemala,,75,TRUE,TRUE
+Guinea,Guinea,Guinea,,76,TRUE,TRUE
+Guinea-Bissau,Guinea-Bissau,Guinea-Bissau,,142,TRUE,TRUE
+Guyana,Guyana,Guyana,,77,TRUE,TRUE
+Haiti,Haiti,Haiti,,78,TRUE,TRUE
+Honduras,Honduras,Honduras,,79,TRUE,TRUE
+Hong Kong,Hong Kong (China),"Hong Kong SAR, China",,80,TRUE,TRUE
+Iceland,Iceland,Iceland,Iceland,81,TRUE,TRUE
+India,India,India,India,82,TRUE,TRUE
+Indonesia,Indonesia,Indonesia,Indonesia,83,TRUE,TRUE
+Iran,Iran,"Iran, Islamic Rep.",Iran,84,TRUE,TRUE
+Iraq,Iraq,Iraq,,85,TRUE,TRUE
+Ireland,Ireland,Ireland,Ireland,86,TRUE,TRUE
+Isle of Man (UK),,Isle of Man,,185,FALSE,FALSE
+Israel,Israel,Israel,,87,TRUE,TRUE
+Italy,Italy,Italy,,88,TRUE,TRUE
+Jamaica,Jamaica,Jamaica,,90,TRUE,TRUE
+Japan,Japan,Japan,Japan,91,TRUE,TRUE
+Johnston Atoll (USA),Johnston Isl. (USA),,,216,FALSE,TRUE
+Jordan,Jordan,Jordan,,92,TRUE,TRUE
+Kenya,Kenya,Kenya,,93,TRUE,TRUE
+Kerguelen Isl. (France),Kerguelen Isl. (France),,,196,TRUE,FALSE
+Kiribati,Kiribati,Kiribati,,69,TRUE,TRUE
+Korea (North),Korea (North),"Korea, Dem. People's Rep.",,94,TRUE,TRUE
+Korea (South),Korea (South),"Korea, Rep.",South Korea,95,TRUE,TRUE
+Kuwait,Kuwait,Kuwait,,96,TRUE,TRUE
+Latvia,Latvia,Latvia,Latvia,98,TRUE,TRUE
+Lebanon,Lebanon,Lebanon,,97,TRUE,TRUE
+Liberia,Liberia,Liberia,,99,TRUE,TRUE
+Libya,Libya,Libya,,100,TRUE,TRUE
+Lithuania,Lithuania,Lithuania,Lithuania,101,TRUE,TRUE
+Macau (China),,"Macao SAR, China",,102,TRUE,FALSE
+Madagascar,Madagascar,Madagascar,,103,TRUE,TRUE
+Madeira Isl. (Portugal),Madeira Isl. (Portugal),,,217,FALSE,TRUE
+Malaysia,Malaysia,Malaysia,Malaysia,104,TRUE,TRUE
+Maldives,Maldives,Maldives,,105,TRUE,TRUE
+Malta,Malta,Malta,,106,TRUE,TRUE
+Mariculture,,Marshall Islands,,206,TRUE,FALSE
+Marshall Isl.,Marshall Isl.,,,132,TRUE,TRUE
+Martinique (France),Martinique (France),,,107,TRUE,TRUE
+Mauritania,Mauritania,Mauritania,Mauritania,108,TRUE,TRUE
+Mauritius,Mauritius,Mauritius,Mauritius,109,TRUE,TRUE
+Mayotte (France),Mayotte (France),,,37,TRUE,TRUE
+Mexico,Mexico,Mexico,Mexico,110,TRUE,TRUE
+Micronesia,Micronesia,"Micronesia, Fed. Sts.",,131,TRUE,TRUE
+Monaco,,Monaco,,111,TRUE,FALSE
+Montenegro,Montenegro,Montenegro,,194,TRUE,TRUE
+Montserrat (UK),Montserrat (UK),,,112,TRUE,TRUE
+Morocco,Morocco,Morocco,Morocco,113,TRUE,TRUE
+Mozambique,Mozambique,Mozambique,,114,TRUE,TRUE
+Myanmar,Myanmar,Myanmar,Myanmar,22,TRUE,TRUE
+Namibia,Namibia,Namibia,Namibia,116,TRUE,TRUE
+Nauru,Nauru,Nauru,,117,TRUE,TRUE
+Netherlands,Netherlands,Netherlands,,118,TRUE,TRUE
+New Caledonia (France),New Caledonia (France),New Caledonia,,121,TRUE,TRUE
+New Zealand,New Zealand,New Zealand,New Zealand,123,TRUE,TRUE
+Nicaragua,Nicaragua,Nicaragua,,124,TRUE,TRUE
+Nigeria,Nigeria,Nigeria,,125,TRUE,TRUE
+Niue (New Zealand),Niue (New Zealand),,,126,TRUE,TRUE
+Norfolk Isl. (Australia),Norfolk Isl. (Australia),,,127,TRUE,TRUE
+North Cyprus,Cyprus,Cyprus,,207,FALSE,TRUE
+North Marianas (USA),North Marianas (USA),Northern Mariana Islands,,129,TRUE,TRUE
+Norway,Norway,Norway,Norway,128,TRUE,TRUE
+Oman,Oman,Oman,Oman,115,TRUE,TRUE
+Other countries,,,,202,TRUE,FALSE
+Pakistan,Pakistan,Pakistan,Pakistan,134,TRUE,TRUE
+Palau,Palau,Palau,,133,TRUE,TRUE
+Panama,Panama,Panama,Panama,135,TRUE,TRUE
+Papua New Guinea,Papua New Guinea,Papua New Guinea,Papua New Guinea,136,TRUE,TRUE
+Peru,Peru,Peru,Peru,137,TRUE,TRUE
+Philippines,Philippines,Philippines,Philippines,138,TRUE,TRUE
+Pitcairn (UK),Pitcairn (UK),,,139,TRUE,TRUE
+Poland,Poland,Poland,Poland,140,TRUE,TRUE
+Portugal,Portugal,Portugal,Portugal,141,TRUE,TRUE
+Puerto Rico (USA),Puerto Rico (USA),Puerto Rico (US),,144,TRUE,TRUE
+Qatar,Qatar,Qatar,,145,TRUE,TRUE
+Reunion (France),Reunion (France),,,146,TRUE,TRUE
+Romania,Romania,Romania,,147,TRUE,TRUE
+Russia (Kaliningrad),,,,204,TRUE,FALSE
+Russia (St Petersburg),,,,203,TRUE,FALSE
+Russian Federation,Russian Federation,Russian Federation,Russia,148,TRUE,TRUE
+Saba and Saint Eustaius (Netherlands),Saba and Saint Eustaius (Netherlands),,,221,FALSE,TRUE
+Saint Helena (UK),Saint Helena (UK),,,149,TRUE,TRUE
+Saint Kitts & Nevis,Saint Kitts & Nevis,,,150,TRUE,TRUE
+Saint Lucia,Saint Lucia,,,152,TRUE,TRUE
+Saint Pierre & Miquelon (France),Saint Pierre & Miquelon (France),,,153,TRUE,TRUE
+Saint Vincent & the Grenadines,Saint Vincent & the Grenadines,,,154,TRUE,TRUE
+Samoa,Samoa,Samoa,Samoa,192,TRUE,TRUE
+Sao Tome & Principe,Sao Tome & Principe,Sao Tome and Principe,,155,TRUE,TRUE
+Saudi Arabia,Saudi Arabia,Saudi Arabia,,156,TRUE,TRUE
+Senegal,Senegal,Senegal,Senegal,157,TRUE,TRUE
+Seychelles,Seychelles,Seychelles,Seychelles,158,TRUE,TRUE
+Sierra Leone,Sierra Leone,Sierra Leone,,159,TRUE,TRUE
+Singapore,Singapore,Singapore,,160,TRUE,TRUE
+Sint Maarten,Sint Maarten (Netherlands),Sint Maarten (Dutch part),,215,FALSE,TRUE
+Slovenia,Slovenia,Slovenia,,162,TRUE,TRUE
+Solomon Isl.,Solomon Isl.,Solomon Islands,,18,TRUE,TRUE
+Somalia,Somalia,"Somalia, Fed. Rep.",,163,TRUE,TRUE
+South Africa,South Africa,South Africa,South Africa,164,TRUE,TRUE
+South Cyprus,Cyprus,Cyprus,,208,FALSE,TRUE
+Spain,Spain,Spain,Spain,165,TRUE,TRUE
+Sri Lanka,Sri Lanka,Sri Lanka,,29,TRUE,TRUE
+St Barthelemy (France),St Barthelemy (France),,,209,FALSE,TRUE
+St Martin,St Martin,St. Martin (French part),,210,FALSE,TRUE
+Sudan,Sudan,Sudan,,167,TRUE,TRUE
+Suriname,Suriname,Suriname,,168,TRUE,TRUE
+Svalbard Isl. (Norway),Svalbard Isl. (Norway),,,199,TRUE,FALSE
+Sweden,Sweden,Sweden,,169,TRUE,TRUE
+Syrian Arab Republic,Syrian Arab Republic,Syrian Arab Republic,,170,TRUE,TRUE
+Taiwan,Taiwan,Taiwan,Taiwan,32,TRUE,TRUE
+Tanzania,Tanzania,Tanzania,,186,TRUE,TRUE
+Thailand,Thailand,Thailand,Thailand,171,TRUE,TRUE
+Timor Leste,Timor Leste,Timor-Leste,,143,TRUE,TRUE
+Togo,Togo,Togo,,172,TRUE,TRUE
+Tokelau (New Zealand),Tokelau (New Zealand),,,173,TRUE,TRUE
+Tonga,Tonga,Tonga,,174,TRUE,TRUE
+Trinidad & Tobago,Trinidad & Tobago,Trinidad and Tobago,,175,TRUE,TRUE
+Tristan da Cunha Isl. (UK),Tristan da Cunha Isl. (UK),,,220,FALSE,TRUE
+Tunisia,Tunisia,Tunisia,Tunisia,177,TRUE,TRUE
+Turkey,Turkey,Turkiye,Turkey,178,TRUE,TRUE
+Turks & Caicos Isl. (UK),Turks & Caicos Isl. (UK),Turks and Caicos Islands,,179,TRUE,TRUE
+Tuvalu,Tuvalu,Tuvalu,,180,TRUE,TRUE
+Ukraine,Ukraine,Ukraine,,181,TRUE,TRUE
+United Arab Emirates,United Arab Emirates,United Arab Emirates,United Arab Emirates,176,TRUE,TRUE
+United Kingdom,United Kingdom,United Kingdom,United Kingdom,183,TRUE,TRUE
+Unknown Fishing Country,Fishing Country Unknown,,,213,FALSE,TRUE
+Uruguay,Uruguay,Uruguay,,189,TRUE,TRUE
+US Minor Outlying Island,,,,130,FALSE,FALSE
+US Virgin Isl.,US Virgin Isl.,Virgin Islands (U.S.),,188,TRUE,TRUE
+USA,USA,United States,United States of America,187,TRUE,TRUE
+Vanuatu,Vanuatu,Vanuatu,,122,TRUE,TRUE
+Venezuela,Venezuela,"Venezuela, RB",,190,TRUE,TRUE
+Viet Nam,Viet Nam,Viet Nam,Vietnam,161,TRUE,TRUE
+Wallis & Futuna Isl. (France),Wallis & Futuna Isl. (France),,,191,TRUE,TRUE
+Western Sahara (Morocco),,,,166,TRUE,FALSE
+Yemen,Yemen,"Yemen, Rep.",Yemen,193,TRUE,TRUE
