@@ -42,7 +42,7 @@ def plot_dendrogram(data, save_fig=False, output_path=None):
     linkage_matrix = ward(data)
 
     # Plot the dendrogram
-    fig = plt.figure(figsize=(10, 5))
+    fig = plt.figure(figsize=(20, 10))
     dendrogram(linkage_matrix, labels=data.index, leaf_rotation=90)
     plt.title('Hierarchical Clustering Dendrogram')
     plt.xlabel('Countries')

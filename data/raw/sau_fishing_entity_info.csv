@@ -1,218 +1,218 @@
 fishing_entity_id,name,wto_status,cashion_end_use_grouping,dedicated_fleet?,DHC_byproduct?,poor_conditions,tuna_ranching/direct_feeding/bait?,low_value_fish,cashion_type
-200,Alaska (USA),Others,unknown,n,n,n,n,n,na
-1,Albania,Developed,only_bait,n,y,n,n,n,2
-2,Algeria,Others,only_bait,n,n,n,y,n,3
-3,American Samoa,Others,only_dhc,n,n,n,n,n,3
-4,Angola,Least Developed,dedicated_industry,y,y,y,y,n,1
-151,Anguilla (UK),Others,only_bait,n,n,n,n,n,na
-5,Antigua & Barbuda,Developing,only_dhc,n,n,n,n,n,na
-6,Argentina,Developing,dedicated_industry,y,y,y,n,n,1
-120,Aruba (Netherlands),Others,only_bait,n,n,n,n,n,3
-219,Ascension Isl. (UK),Others,only_dhc,n,n,n,n,n,3
-7,Australia,Developed,dedicated_industry,y,y,y,y,n,1
-218,Azores Isl. (Portugal),Others,only_bait,n,n,n,y,n,2
-8,Bahamas,Others,only_dhc,n,n,n,n,n,3
-9,Bahrain,Developing,only_dhc,n,n,n,n,n,3
-10,Bangladesh,Least Developed,dedicated_industry,n,n,y,n,y,1
-11,Barbados,Developing,only_bait,n,n,n,n,n,3
-12,Belgium,Developed,dedicated_industry,y,y,n,n,n,2
-16,Belize,Developing,only_bait,n,n,n,y,n,3
-45,Benin,Least Developed,only_bait,n,n,n,y,n,3
-13,Bermuda (UK),Others,only_bait,n,n,n,n,n,na
-222,Bonaire (Netherlands),Others,only_bait,n,n,n,n,n,3
-14,Bosnia & Herzegovina,Others,only_bait,n,y,n,n,n,2
-15,Brazil,Developing,dedicated_industry,y,y,y,y,n,1
-17,Brit. Indian Ocean Terr. (UK),Others,only_dhc,n,n,n,y,n,3
-19,British Virgin Isl. (UK),Others,only_bait,n,n,n,n,n,3
-20,Brunei Darussalam,Developing,only_bait,n,n,n,n,n,3
-21,Bulgaria,Developed,only_bait,n,y,n,n,n,2
-89,Cote d'Ivoire,Developing,only_dhc,n,y,n,y,n,2
-24,Cambodia,Least Developed,dedicated_industry,n,n,y,y,y,1
-25,Cameroon,Developing,only_bait,n,n,n,n,n,3
-26,Canada,Developed,dedicated_industry,y,y,y,y,n,1
-27,Cape Verde,Developing,dedicated_industry,n,y,n,y,n,2
-28,Cayman Isl. (UK),Others,only_dhc,n,n,n,n,n,3
-184,Channel Isl. (UK),Others,dedicated_industry,y,y,y,n,n,1
-30,Chile,Developing,dedicated_industry,y,n,y,n,n,1
-31,China,Developing,dedicated_industry,y,n,y,y,y,1
-33,Christmas Isl. (Australia),Others,only_dhc,n,n,n,n,n,3
-34,Cocos (Keeling) Isl. (Australia),Others,only_dhc,n,n,n,n,n,3
-35,Colombia,Developing,dedicated_industry,y,n,y,y,n,1
-36,Comoros,Others,only_dhc,n,n,n,y,n,3
-39,Congo (ex-Zaire),Least Developed,only_bait,n,n,n,n,n,3
-38,"Congo, R. of",Developing,only_bait,n,n,n,y,n,3
-40,Cook Islands,Others,only_dhc,n,n,n,n,n,3
-41,Costa Rica,Developing,only_dhc,n,y,n,n,n,3
-42,Croatia,Developed,dedicated_industry,n,y,y,y,n,2
-195,Crozet Isl. (France),Others,unknown,n,n,n,n,n,na
-43,Cuba,Developing,dedicated_industry,n,n,y,y,n,1
-214,Curacao,Others,only_bait,n,n,n,n,n,3
-44,Cyprus,Developed,unknown,n,n,n,y,n,na
-46,Denmark,Developed,dedicated_industry,y,n,y,n,n,1
-61,Djibouti,Least Developed,only_dhc,n,n,n,n,n,3
-47,Dominica,Developing,only_bait,n,n,n,n,n,3
-48,Dominican Republic,Developing,only_bait,n,n,n,n,n,3
-49,Ecuador,Developing,dedicated_industry,y,n,y,y,n,1
-182,Egypt,Developing,only_dhc,n,y,n,y,n,2
-50,El Salvador,Developing,dedicated_industry,n,n,y,n,n,1
-51,Equatorial Guinea,Others,only_bait,n,n,n,y,n,3
-23,Eritrea,Others,dedicated_industry,y,n,y,y,n,1
-53,Estonia,Developed,only_bait,n,y,n,n,n,2
-52,Ethiopia,Others,unknown,n,n,n,n,n,na
-198,European Union,Others,unknown,n,n,n,n,n,na
-54,Faeroe Isl. (Denmark),Others,dedicated_industry,y,n,y,n,n,1
-55,Falkland Isl. (UK),Others,only_bait,n,n,n,y,n,3
-56,Fiji,Developing,only_bait,n,y,n,n,n,2
-57,Finland,Developed,dedicated_industry,y,n,y,y,n,1
-223,Fishing Country Unknown,Others,dedicated_industry,n,n,n,n,n,na
-58,France,Developed,dedicated_industry,y,y,n,n,n,2
-59,French Guiana,Others,only_dhc,n,n,n,y,n,3
-60,French Polynesia,Others,only_dhc,n,n,n,n,n,3
-62,Gabon,Developing,only_bait,n,n,n,y,n,3
-64,Gambia,Least Developed,only_bait,n,n,n,y,n,3
-65,Gaza Strip,Others,only_bait,n,n,n,n,n,3
-63,Georgia,Developed,dedicated_industry,y,n,y,n,n,1
-66,Germany,Developed,dedicated_industry,y,y,y,n,n,2
-67,Ghana,Developing,only_dhc,n,y,n,y,n,2
-68,Gibraltar (UK),Others,unknown,n,n,n,n,n,na
-70,Greece,Developing,dedicated_industry,n,y,y,y,n,2
-71,Greenland,Others,dedicated_industry,n,n,y,y,n,1
-72,Grenada,Developing,only_bait,n,n,n,n,n,3
-73,Guadeloupe  (France),Others,only_bait,n,n,n,n,n,3
-74,Guam (USA),Others,only_bait,n,n,n,n,n,3
-75,Guatemala,Developing,only_bait,n,n,n,y,n,3
-76,Guinea,Least Developed,only_bait,n,n,n,y,n,3
-142,Guinea-Bissau,Least Developed,only_dhc,n,n,n,y,n,3
-77,Guyana,Developing,only_bait,n,n,n,y,n,3
-78,Haiti,Least Developed,only_bait,n,n,n,n,n,3
-79,Honduras,Developing,only_bait,n,n,n,y,n,3
-80,Hong Kong,Developing,dedicated_industry,n,n,y,y,y,1
-81,Iceland,Developed,dedicated_industry,y,y,y,n,n,1
-82,India,Developing,dedicated_industry,y,n,y,y,y,1
-83,Indonesia,Developing,dedicated_industry,y,y,y,y,y,1
-84,Iran,Others,dedicated_industry,y,y,y,n,n,1
-85,Iraq,Others,only_dhc,n,n,n,n,n,3
-86,Ireland,Developed,dedicated_industry,y,y,y,n,n,1
-185,Isle of Man (UK),Others,unknown,n,n,n,n,n,na
-87,Israel,Developing,only_bait,n,n,n,n,n,3
-88,Italy,Developed,only_bait,n,n,n,y,n,2
-90,Jamaica,Developing,only_bait,n,n,n,n,n,3
-91,Japan,Developed,dedicated_industry,y,y,y,y,n,1
-216,Johnston Atoll (USA),Others,unknown,n,n,n,n,n,3
-92,Jordan,Developing,only_dhc,n,n,n,n,n,3
-93,Kenya,Developing,only_dhc,n,n,n,y,n,2
-196,Kerguelen Isl. (France),Others,unknown,n,n,n,n,n,na
-69,Kiribati,Others,only_bait,n,n,n,n,n,3
-94,Korea (North),Others,only_bait,n,n,n,n,n,3
-95,Korea (South),Developing,dedicated_industry,y,y,y,n,n,1
-96,Kuwait,Developing,only_dhc,n,n,n,n,n,3
-98,Latvia,Developed,only_bait,n,y,n,n,n,2
-97,Lebanon,Others,only_dhc,n,n,n,n,n,3
-99,Liberia,Least Developed,only_bait,n,n,n,y,n,3
-100,Libya,Others,dedicated_industry,n,y,y,y,n,1
-101,Lithuania,Developed,only_bait,n,y,n,n,n,2
-102,Macau (China),Others,unknown,n,n,n,n,n,na
-103,Madagascar,Least Developed,dedicated_industry,y,n,y,y,n,1
-217,Madeira Isl. (Portugal),Others,only_bait,n,n,n,y,n,3
-104,Malaysia,Developing,dedicated_industry,n,y,y,y,y,1
-105,Maldives,Developing,only_bait,n,y,n,n,n,2
-106,Malta,Developed,only_bait,n,n,n,y,n,2
-206,Mariculture,Others,unknown,n,n,n,n,n,na
-132,Marshall Isl.,Others,only_bait,n,n,n,n,n,3
-107,Martinique (France),Others,only_bait,n,n,n,n,n,3
-108,Mauritania,Least Developed,dedicated_industry,y,n,y,y,n,1
-109,Mauritius,Developing,only_bait,n,y,n,y,n,2
-37,Mayotte (France),Others,only_dhc,n,n,n,n,n,3
-110,Mexico,Developing,dedicated_industry,y,y,y,y,n,1
-131,Micronesia,Others,only_dhc,n,n,n,n,n,3
-111,Monaco,Developed,unknown,n,n,n,n,n,na
-194,Montenegro,Developing,only_bait,n,y,n,n,n,2
-112,Montserrat (UK),Others,only_bait,n,n,n,n,n,3
-113,Morocco,Developing,dedicated_industry,y,y,y,y,n,1
-114,Mozambique,Least Developed,only_dhc,n,n,n,n,n,3
-22,Myanmar,Least Developed,dedicated_industry,n,n,n,y,y,1
-116,Namibia,Developing,dedicated_industry,y,n,y,y,n,1
-117,Nauru,Others,only_dhc,n,n,n,n,n,3
-118,Netherlands,Developed,only_bait,n,y,n,n,n,2
-121,New Caledonia (France),Others,only_dhc,n,n,n,n,n,3
-123,New Zealand,Developed,dedicated_industry,n,y,n,n,n,2
-124,Nicaragua,Developing,only_bait,n,n,n,y,n,3
-125,Nigeria,Developing,only_dhc,n,n,n,n,n,2
-126,Niue (New Zealand),Others,only_dhc,n,n,n,n,n,3
-127,Norfolk Isl. (Australia),Others,only_dhc,n,n,n,n,n,3
-207,North Cyprus,Others,only_bait,n,n,n,y,n,2
-129,North Marianas (USA),Others,only_dhc,n,n,n,n,n,3
-128,Norway,Developed,dedicated_industry,y,n,y,y,n,1
-115,Oman,Developing,only_bait,n,y,n,y,n,1
-202,Other countries,Others,unknown,n,n,n,n,n,na
-134,Pakistan,Developing,dedicated_industry,y,n,y,n,n,1
-133,Palau,Others,only_bait,n,n,n,n,n,3
-135,Panama,Developing,dedicated_industry,y,n,y,y,n,1
-136,Papua New Guinea,Developing,only_dhc,n,n,n,n,n,3
-137,Peru,Developing,dedicated_industry,y,n,y,n,n,1
-138,Philippines,Developing,only_bait,n,n,n,n,n,3
-139,Pitcairn (UK),Others,only_dhc,n,n,n,n,n,3
-140,Poland,Developed,dedicated_industry,y,y,y,n,n,1
-141,Portugal,Developed,only_bait,n,n,n,y,n,2
-144,Puerto Rico (USA),Others,only_bait,n,n,n,n,n,3
-145,Qatar,Developing,only_bait,n,n,n,n,n,3
-146,Reunion (France),Others,only_bait,n,n,n,y,n,3
-147,Romania,Developed,dedicated_industry,n,y,n,n,n,2
-204,Russia (Kaliningrad),Others,unknown,n,n,n,n,n,na
-203,Russia (St Petersburg),Others,unknown,n,n,n,n,n,na
-148,Russian Federation,Developed,dedicated_industry,y,y,y,n,n,1
-221,Saba and Saint Eustaius (Netherlands),Others,only_dhc,n,n,n,n,n,3
-149,Saint Helena (UK),Others,only_bait,n,n,n,y,n,3
-150,Saint Kitts & Nevis,Developing,only_bait,n,n,n,n,n,3
-152,Saint Lucia,Developing,only_bait,n,n,n,n,n,3
-153,Saint Pierre & Miquelon (France),Others,dedicated_industry,n,y,y,y,n,1
-154,Saint Vincent & the Grenadines,Developing,only_bait,n,n,n,n,n,3
-192,Samoa,Developing,only_bait,n,n,n,n,n,3
-155,Sao Tome & Principe,Others,only_bait,n,n,n,y,n,3
-156,Saudi Arabia,Developing,dedicated_industry,n,y,n,y,n,2
-157,Senegal,Least Developed,only_bait,n,y,n,y,n,2
-158,Seychelles,Developing,only_dhc,n,y,n,y,n,2
-159,Sierra Leone,Least Developed,only_bait,n,n,n,y,n,3
-160,Singapore,Developing,dedicated_industry,n,n,n,n,y,1
-215,Sint Maarten,Others,only_dhc,n,n,n,n,n,3
-162,Slovenia,Developed,only_bait,n,y,n,n,n,2
-18,Solomon Isl.,Least Developed,only_bait,n,y,n,n,n,2
-163,Somalia,Others,only_dhc,n,y,n,n,n,2
-164,South Africa,Developing,dedicated_industry,y,n,y,y,n,1
-208,South Cyprus,Others,only_bait,n,n,n,y,n,2
-165,Spain,Developed,dedicated_industry,y,y,y,y,n,2
-29,Sri Lanka,Developing,only_bait,n,n,n,n,n,3
-209,St Barthelemy (France),Others,only_dhc,n,n,n,n,n,na
-210,St Martin,Others,only_dhc,n,n,n,n,n,3
-167,Sudan,Others,only_dhc,n,n,n,n,n,3
-168,Suriname,Developing,only_bait,n,n,n,y,n,3
-199,Svalbard Isl. (Norway),Others,unknown,n,n,n,n,n,na
-169,Sweden,Developed,dedicated_industry,y,y,y,y,n,1
-170,Syrian Arab Republic,Others,only_bait,n,n,n,n,n,3
-32,Taiwan,Developing,dedicated_industry,y,y,y,y,n,1
-186,Tanzania,Least Developed,only_dhc,n,n,n,y,n,2
-171,Thailand,Developing,dedicated_industry,n,y,y,y,y,1
-143,Timor Leste,Others,only_dhc,n,n,n,n,n,3
-172,Togo,Developing,only_bait,n,n,n,y,n,3
-173,Tokelau (New Zealand),Others,only_dhc,n,n,n,n,n,3
-174,Tonga,Developing,only_dhc,n,n,n,n,n,3
-175,Trinidad & Tobago,Developing,only_bait,n,n,n,n,n,3
-220,Tristan da Cunha Isl. (UK),Others,only_bait,n,y,n,y,n,2
-177,Tunisia,Developing,dedicated_industry,n,y,n,y,n,2
-178,Turkey,Developing,dedicated_industry,y,n,y,y,n,1
-179,Turks & Caicos Isl. (UK),Others,only_bait,n,n,n,n,n,3
-180,Tuvalu,Others,only_bait,n,n,n,n,n,3
-181,Ukraine,Developed,dedicated_industry,y,n,y,n,n,1
-176,United Arab Emirates,Developing,dedicated_industry,n,n,n,y,y,1
-183,United Kingdom,Developed,dedicated_industry,y,y,y,n,n,1
-213,Unknown Fishing Country,Others,only_dhc,n,n,n,n,n,na
-189,Uruguay,Developing,dedicated_industry,y,y,y,n,n,1
-130,US Minor Outlying Island,Others,unknown,n,n,n,n,n,na
-188,US Virgin Isl.,Others,only_bait,n,n,n,n,n,3
-187,USA,Developed,dedicated_industry,y,n,y,y,n,1
-122,Vanuatu,Developing,dedicated_industry,y,n,n,n,n,1
-190,Venezuela,Developing,dedicated_industry,n,y,y,y,n,2
-161,Viet Nam,Developing,dedicated_industry,n,n,y,y,y,1
-191,Wallis & Futuna Isl. (France),Others,only_bait,n,n,n,n,n,3
-166,Western Sahara (Morocco),Others,unknown,n,n,n,n,n,na
-193,Yemen,Least Developed,dedicated_industry,y,n,y,y,n,1
+200,Alaska (USA),Others,Unknown,n,n,n,n,n,Unknown
+1,Albania,Developed,only_bait,n,y,n,n,n,B
+2,Algeria,Others,only_bait,n,n,n,y,n,C
+3,American Samoa,Others,only_dhc,n,n,n,n,n,C
+4,Angola,Least Developed,dedicated_industry,y,y,y,y,n,A
+151,Anguilla (UK),Others,only_bait,n,n,n,n,n,Unknown
+5,Antigua & Barbuda,Developing,only_dhc,n,n,n,n,n,Unknown
+6,Argentina,Developing,dedicated_industry,y,y,y,n,n,A
+120,Aruba (Netherlands),Others,only_bait,n,n,n,n,n,C
+219,Ascension Isl. (UK),Others,only_dhc,n,n,n,n,n,C
+7,Australia,Developed,dedicated_industry,y,y,y,y,n,A
+218,Azores Isl. (Portugal),Others,only_bait,n,n,n,y,n,B
+8,Bahamas,Others,only_dhc,n,n,n,n,n,C
+9,Bahrain,Developing,only_dhc,n,n,n,n,n,C
+10,Bangladesh,Least Developed,dedicated_industry,n,n,y,n,y,A
+11,Barbados,Developing,only_bait,n,n,n,n,n,C
+12,Belgium,Developed,dedicated_industry,y,y,n,n,n,B
+16,Belize,Developing,only_bait,n,n,n,y,n,C
+45,Benin,Least Developed,only_bait,n,n,n,y,n,C
+13,Bermuda (UK),Others,only_bait,n,n,n,n,n,Unknown
+222,Bonaire (Netherlands),Others,only_bait,n,n,n,n,n,C
+14,Bosnia & Herzegovina,Others,only_bait,n,y,n,n,n,B
+15,Brazil,Developing,dedicated_industry,y,y,y,y,n,A
+17,Brit. Indian Ocean Terr. (UK),Others,only_dhc,n,n,n,y,n,C
+19,British Virgin Isl. (UK),Others,only_bait,n,n,n,n,n,C
+20,Brunei Darussalam,Developing,only_bait,n,n,n,n,n,C
+21,Bulgaria,Developed,only_bait,n,y,n,n,n,B
+89,Cote d'Ivoire,Developing,only_dhc,n,y,n,y,n,B
+24,Cambodia,Least Developed,dedicated_industry,n,n,y,y,y,A
+25,Cameroon,Developing,only_bait,n,n,n,n,n,C
+26,Canada,Developed,dedicated_industry,y,y,y,y,n,A
+27,Cape Verde,Developing,dedicated_industry,n,y,n,y,n,B
+28,Cayman Isl. (UK),Others,only_dhc,n,n,n,n,n,C
+184,Channel Isl. (UK),Others,dedicated_industry,y,y,y,n,n,A
+30,Chile,Developing,dedicated_industry,y,n,y,n,n,A
+31,China,Developing,dedicated_industry,y,n,y,y,y,A
+33,Christmas Isl. (Australia),Others,only_dhc,n,n,n,n,n,C
+34,Cocos (Keeling) Isl. (Australia),Others,only_dhc,n,n,n,n,n,C
+35,Colombia,Developing,dedicated_industry,y,n,y,y,n,A
+36,Comoros,Others,only_dhc,n,n,n,y,n,C
+39,Congo (ex-Zaire),Least Developed,only_bait,n,n,n,n,n,C
+38,"Congo, R. of",Developing,only_bait,n,n,n,y,n,C
+40,Cook Islands,Others,only_dhc,n,n,n,n,n,C
+41,Costa Rica,Developing,only_dhc,n,y,n,n,n,C
+42,Croatia,Developed,dedicated_industry,n,y,y,y,n,B
+195,Crozet Isl. (France),Others,Unknown,n,n,n,n,n,Unknown
+43,Cuba,Developing,dedicated_industry,n,n,y,y,n,A
+214,Curacao,Others,only_bait,n,n,n,n,n,C
+44,Cyprus,Developed,Unknown,n,n,n,y,n,Unknown
+46,Denmark,Developed,dedicated_industry,y,n,y,n,n,A
+61,Djibouti,Least Developed,only_dhc,n,n,n,n,n,C
+47,Dominica,Developing,only_bait,n,n,n,n,n,C
+48,Dominican Republic,Developing,only_bait,n,n,n,n,n,C
+49,Ecuador,Developing,dedicated_industry,y,n,y,y,n,A
+182,Egypt,Developing,only_dhc,n,y,n,y,n,B
+50,El Salvador,Developing,dedicated_industry,n,n,y,n,n,A
+51,Equatorial Guinea,Others,only_bait,n,n,n,y,n,C
+23,Eritrea,Others,dedicated_industry,y,n,y,y,n,A
+53,Estonia,Developed,only_bait,n,y,n,n,n,B
+52,Ethiopia,Others,Unknown,n,n,n,n,n,Unknown
+198,European Union,Others,Unknown,n,n,n,n,n,Unknown
+54,Faeroe Isl. (Denmark),Others,dedicated_industry,y,n,y,n,n,A
+55,Falkland Isl. (UK),Others,only_bait,n,n,n,y,n,C
+56,Fiji,Developing,only_bait,n,y,n,n,n,B
+57,Finland,Developed,dedicated_industry,y,n,y,y,n,A
+223,Fishing Country Unknown,Others,dedicated_industry,n,n,n,n,n,Unknown
+58,France,Developed,dedicated_industry,y,y,n,n,n,B
+59,French Guiana,Others,only_dhc,n,n,n,y,n,C
+60,French Polynesia,Others,only_dhc,n,n,n,n,n,C
+62,Gabon,Developing,only_bait,n,n,n,y,n,C
+64,Gambia,Least Developed,only_bait,n,n,n,y,n,C
+65,Gaza Strip,Others,only_bait,n,n,n,n,n,C
+63,Georgia,Developed,dedicated_industry,y,n,y,n,n,A
+66,Germany,Developed,dedicated_industry,y,y,y,n,n,B
+67,Ghana,Developing,only_dhc,n,y,n,y,n,B
+68,Gibraltar (UK),Others,Unknown,n,n,n,n,n,Unknown
+70,Greece,Developing,dedicated_industry,n,y,y,y,n,B
+71,Greenland,Others,dedicated_industry,n,n,y,y,n,A
+72,Grenada,Developing,only_bait,n,n,n,n,n,C
+73,Guadeloupe  (France),Others,only_bait,n,n,n,n,n,C
+74,Guam (USA),Others,only_bait,n,n,n,n,n,C
+75,Guatemala,Developing,only_bait,n,n,n,y,n,C
+76,Guinea,Least Developed,only_bait,n,n,n,y,n,C
+142,Guinea-Bissau,Least Developed,only_dhc,n,n,n,y,n,C
+77,Guyana,Developing,only_bait,n,n,n,y,n,C
+78,Haiti,Least Developed,only_bait,n,n,n,n,n,C
+79,Honduras,Developing,only_bait,n,n,n,y,n,C
+80,Hong Kong,Developing,dedicated_industry,n,n,y,y,y,A
+81,Iceland,Developed,dedicated_industry,y,y,y,n,n,A
+82,India,Developing,dedicated_industry,y,n,y,y,y,A
+83,Indonesia,Developing,dedicated_industry,y,y,y,y,y,A
+84,Iran,Others,dedicated_industry,y,y,y,n,n,A
+85,Iraq,Others,only_dhc,n,n,n,n,n,C
+86,Ireland,Developed,dedicated_industry,y,y,y,n,n,A
+185,Isle of Man (UK),Others,Unknown,n,n,n,n,n,Unknown
+87,Israel,Developing,only_bait,n,n,n,n,n,C
+88,Italy,Developed,only_bait,n,n,n,y,n,B
+90,Jamaica,Developing,only_bait,n,n,n,n,n,C
+91,Japan,Developed,dedicated_industry,y,y,y,y,n,A
+216,Johnston Atoll (USA),Others,Unknown,n,n,n,n,n,C
+92,Jordan,Developing,only_dhc,n,n,n,n,n,C
+93,Kenya,Developing,only_dhc,n,n,n,y,n,B
+196,Kerguelen Isl. (France),Others,Unknown,n,n,n,n,n,Unknown
+69,Kiribati,Others,only_bait,n,n,n,n,n,C
+94,Korea (North),Others,only_bait,n,n,n,n,n,C
+95,Korea (South),Developing,dedicated_industry,y,y,y,n,n,A
+96,Kuwait,Developing,only_dhc,n,n,n,n,n,C
+98,Latvia,Developed,only_bait,n,y,n,n,n,B
+97,Lebanon,Others,only_dhc,n,n,n,n,n,C
+99,Liberia,Least Developed,only_bait,n,n,n,y,n,C
+100,Libya,Others,dedicated_industry,n,y,y,y,n,A
+101,Lithuania,Developed,only_bait,n,y,n,n,n,B
+102,Macau (China),Others,Unknown,n,n,n,n,n,Unknown
+103,Madagascar,Least Developed,dedicated_industry,y,n,y,y,n,A
+217,Madeira Isl. (Portugal),Others,only_bait,n,n,n,y,n,C
+104,Malaysia,Developing,dedicated_industry,n,y,y,y,y,A
+105,Maldives,Developing,only_bait,n,y,n,n,n,B
+106,Malta,Developed,only_bait,n,n,n,y,n,B
+206,Mariculture,Others,Unknown,n,n,n,n,n,Unknown
+132,Marshall Isl.,Others,only_bait,n,n,n,n,n,C
+107,Martinique (France),Others,only_bait,n,n,n,n,n,C
+108,Mauritania,Least Developed,dedicated_industry,y,n,y,y,n,A
+109,Mauritius,Developing,only_bait,n,y,n,y,n,B
+37,Mayotte (France),Others,only_dhc,n,n,n,n,n,C
+110,Mexico,Developing,dedicated_industry,y,y,y,y,n,A
+131,Micronesia,Others,only_dhc,n,n,n,n,n,C
+111,Monaco,Developed,Unknown,n,n,n,n,n,Unknown
+194,Montenegro,Developing,only_bait,n,y,n,n,n,B
+112,Montserrat (UK),Others,only_bait,n,n,n,n,n,C
+113,Morocco,Developing,dedicated_industry,y,y,y,y,n,A
+114,Mozambique,Least Developed,only_dhc,n,n,n,n,n,C
+22,Myanmar,Least Developed,dedicated_industry,n,n,n,y,y,A
+116,Namibia,Developing,dedicated_industry,y,n,y,y,n,A
+117,Nauru,Others,only_dhc,n,n,n,n,n,C
+118,Netherlands,Developed,only_bait,n,y,n,n,n,B
+121,New Caledonia (France),Others,only_dhc,n,n,n,n,n,C
+123,New Zealand,Developed,dedicated_industry,n,y,n,n,n,B
+124,Nicaragua,Developing,only_bait,n,n,n,y,n,C
+125,Nigeria,Developing,only_dhc,n,n,n,n,n,B
+126,Niue (New Zealand),Others,only_dhc,n,n,n,n,n,C
+127,Norfolk Isl. (Australia),Others,only_dhc,n,n,n,n,n,C
+207,North Cyprus,Others,only_bait,n,n,n,y,n,B
+129,North Marianas (USA),Others,only_dhc,n,n,n,n,n,C
+128,Norway,Developed,dedicated_industry,y,n,y,y,n,A
+115,Oman,Developing,only_bait,n,y,n,y,n,A
+202,Other countries,Others,Unknown,n,n,n,n,n,Unknown
+134,Pakistan,Developing,dedicated_industry,y,n,y,n,n,A
+133,Palau,Others,only_bait,n,n,n,n,n,C
+135,Panama,Developing,dedicated_industry,y,n,y,y,n,A
+136,Papua New Guinea,Developing,only_dhc,n,n,n,n,n,C
+137,Peru,Developing,dedicated_industry,y,n,y,n,n,A
+138,Philippines,Developing,only_bait,n,n,n,n,n,C
+139,Pitcairn (UK),Others,only_dhc,n,n,n,n,n,C
+140,Poland,Developed,dedicated_industry,y,y,y,n,n,A
+141,Portugal,Developed,only_bait,n,n,n,y,n,B
+144,Puerto Rico (USA),Others,only_bait,n,n,n,n,n,C
+145,Qatar,Developing,only_bait,n,n,n,n,n,C
+146,Reunion (France),Others,only_bait,n,n,n,y,n,C
+147,Romania,Developed,dedicated_industry,n,y,n,n,n,B
+204,Russia (Kaliningrad),Others,Unknown,n,n,n,n,n,Unknown
+203,Russia (St Petersburg),Others,Unknown,n,n,n,n,n,Unknown
+148,Russian Federation,Developed,dedicated_industry,y,y,y,n,n,A
+221,Saba and Saint Eustaius (Netherlands),Others,only_dhc,n,n,n,n,n,C
+149,Saint Helena (UK),Others,only_bait,n,n,n,y,n,C
+150,Saint Kitts & Nevis,Developing,only_bait,n,n,n,n,n,C
+152,Saint Lucia,Developing,only_bait,n,n,n,n,n,C
+153,Saint Pierre & Miquelon (France),Others,dedicated_industry,n,y,y,y,n,A
+154,Saint Vincent & the Grenadines,Developing,only_bait,n,n,n,n,n,C
+192,Samoa,Developing,only_bait,n,n,n,n,n,C
+155,Sao Tome & Principe,Others,only_bait,n,n,n,y,n,C
+156,Saudi Arabia,Developing,dedicated_industry,n,y,n,y,n,B
+157,Senegal,Least Developed,only_bait,n,y,n,y,n,B
+158,Seychelles,Developing,only_dhc,n,y,n,y,n,B
+159,Sierra Leone,Least Developed,only_bait,n,n,n,y,n,C
+160,Singapore,Developing,dedicated_industry,n,n,n,n,y,A
+215,Sint Maarten,Others,only_dhc,n,n,n,n,n,C
+162,Slovenia,Developed,only_bait,n,y,n,n,n,B
+18,Solomon Isl.,Least Developed,only_bait,n,y,n,n,n,B
+163,Somalia,Others,only_dhc,n,y,n,n,n,B
+164,South Africa,Developing,dedicated_industry,y,n,y,y,n,A
+208,South Cyprus,Others,only_bait,n,n,n,y,n,B
+165,Spain,Developed,dedicated_industry,y,y,y,y,n,B
+29,Sri Lanka,Developing,only_bait,n,n,n,n,n,C
+209,St Barthelemy (France),Others,only_dhc,n,n,n,n,n,Unknown
+210,St Martin,Others,only_dhc,n,n,n,n,n,C
+167,Sudan,Others,only_dhc,n,n,n,n,n,C
+168,Suriname,Developing,only_bait,n,n,n,y,n,C
+199,Svalbard Isl. (Norway),Others,Unknown,n,n,n,n,n,Unknown
+169,Sweden,Developed,dedicated_industry,y,y,y,y,n,A
+170,Syrian Arab Republic,Others,only_bait,n,n,n,n,n,C
+32,Taiwan,Developing,dedicated_industry,y,y,y,y,n,A
+186,Tanzania,Least Developed,only_dhc,n,n,n,y,n,B
+171,Thailand,Developing,dedicated_industry,n,y,y,y,y,A
+143,Timor Leste,Others,only_dhc,n,n,n,n,n,C
+172,Togo,Developing,only_bait,n,n,n,y,n,C
+173,Tokelau (New Zealand),Others,only_dhc,n,n,n,n,n,C
+174,Tonga,Developing,only_dhc,n,n,n,n,n,C
+175,Trinidad & Tobago,Developing,only_bait,n,n,n,n,n,C
+220,Tristan da Cunha Isl. (UK),Others,only_bait,n,y,n,y,n,B
+177,Tunisia,Developing,dedicated_industry,n,y,n,y,n,B
+178,Turkey,Developing,dedicated_industry,y,n,y,y,n,A
+179,Turks & Caicos Isl. (UK),Others,only_bait,n,n,n,n,n,C
+180,Tuvalu,Others,only_bait,n,n,n,n,n,C
+181,Ukraine,Developed,dedicated_industry,y,n,y,n,n,A
+176,United Arab Emirates,Developing,dedicated_industry,n,n,n,y,y,A
+183,United Kingdom,Developed,dedicated_industry,y,y,y,n,n,A
+213,Unknown Fishing Country,Others,only_dhc,n,n,n,n,n,Unknown
+189,Uruguay,Developing,dedicated_industry,y,y,y,n,n,A
+130,US Minor Outlying Island,Others,Unknown,n,n,n,n,n,Unknown
+188,US Virgin Isl.,Others,only_bait,n,n,n,n,n,C
+187,USA,Developed,dedicated_industry,y,n,y,y,n,A
+122,Vanuatu,Developing,dedicated_industry,y,n,n,n,n,A
+190,Venezuela,Developing,dedicated_industry,n,y,y,y,n,B
+161,Viet Nam,Developing,dedicated_industry,n,n,y,y,y,A
+191,Wallis & Futuna Isl. (France),Others,only_bait,n,n,n,n,n,C
+166,Western Sahara (Morocco),Others,Unknown,n,n,n,n,n,Unknown
+193,Yemen,Least Developed,dedicated_industry,y,n,y,y,n,A
